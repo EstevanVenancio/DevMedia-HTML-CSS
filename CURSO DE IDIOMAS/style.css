@@ -1,0 +1,78 @@
+.container {
+    text-align: center;
+    font-family: Tahoma;
+}
+
+header {
+    padding: 10px;
+    background-color: #B5B5B5;
+    border-radius: 8px;
+    margin-bottom: 8px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: normal;
+    color: #1E90FF;
+}
+
+.secao-idioma {
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.secao-azul {
+    color: #ffffff;
+    background-color: #1C86EE;
+}
+
+.bandeiras {
+    width: 80px;
+}
+
+.secao-rodape {
+    font-size: 30px;
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px solid #000000;
+    margin: 8px 40px;
+}
+
+.botoes {
+    margin: 25px auto;
+}
+
+.botao-whatsapp {
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: #25D366;
+    color: #ffffff;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.botao-e-mail {
+    text-decoration: none;
+    padding: 10px 40px;
+    background-color: #007bff;
+    color: #ffffff;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.direitos-autorais {
+    border-top: 1px solid #000000;
+    padding-top: 10px;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    font-size: 14px;
+    font-family: Arial;
+}
