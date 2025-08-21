@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #DCDCDC;
+    text-align: center;
+
+
+}
+
+#resultados {
+    width: 500px;
+    margin: 30px auto;
+    text-align: center;
+    border: 1px solid #000000;
+    padding-bottom: 20px;
+
+}
+
+#aprovados {
+    color: #02af3b;
+}
+
+#reprovados {
+    color: #ce0909;
+}
+
+a {
+    padding: 8px 50px;
+    font-family: Verdana;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #663399;
+    border-radius: 6px;
+}
+
+.direitos-autorais {
+    text-align: center;
+    border-top: 1px solid #000000;
+    padding-top: 10px;
+    bottom: 0;
+    width: 100%;
+    font-size: 16px;
+    font-weight: normal;
+    z-index: 1000;
+    position: fixed;
+}
