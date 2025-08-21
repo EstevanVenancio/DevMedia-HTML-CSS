@@ -1,0 +1,66 @@
+body {
+    background-image: url(img/fundo-tatuagem.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+div {
+    margin: 10px auto;
+    width: 600px;
+    text-align: center;
+    line-height: 28px;
+}
+
+.imagem-logo {
+    width: 200px;
+    border-radius: 30px;
+}
+
+h1 {
+    font-family: Tahoma;
+    font-size: 24px;
+}
+
+h2 {
+    font-family: Arial;
+    font-weight: normal;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.quem-somos-nos {
+    font-size: 18px;
+    font-family: Arial;
+    color: #ffffff;
+}
+
+.texto-negrito {
+    font-weight: bold;
+    color: #000000;
+}
+
+.texto-vermelho {
+    color: #EE3B3B;
+}
+
+.rede-social {
+    font-size: 20px;
+    font-family: Arial;
+}
+
+.imagem-rede-social {
+    width: 40px;
+    padding: 6px;
+    border-radius: 50px;
+}
+
+.direitos-autorais {
+    text-align: center;
+    border-top: 1px solid #000000;
+    padding-top: 10px;
+    bottom: 0px;
+    width: 100%;
+    font-size: 16px;
+    font-weight: normal;
+}

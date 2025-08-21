@@ -1,0 +1,35 @@
+a {
+    background-color: #28a745;
+    /* verde */
+    color: white;
+    /* texto branco */
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #218838;
+    /* verde mais escuro no hover */
+}
+
+#youtube {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.direitos-autorais {
+    text-align: center;
+    border-top: 1px solid #000000;
+    padding-top: 10px;
+    bottom: 0px;
+    width: 100%;
+    font-size: 16px;
+    font-weight: normal;
+    margin-top: 10px;
+}

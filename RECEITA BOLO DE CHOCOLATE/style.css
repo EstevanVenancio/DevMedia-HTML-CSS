@@ -1,0 +1,35 @@
+div {
+    font-family: Verdana;
+}
+
+h1 {
+    font-size: 22px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 18px;
+    text-align: center;
+    font-weight: normal;
+    color: red;
+}
+
+h3 {
+    font-size: 16px;
+    text-decoration: underline;
+    color: red;
+}
+
+p {
+    font-size: 14px;
+}
+
+.direitos-autorais {
+    text-align: center;
+    border-top: 1px solid #000000;
+    padding-top: 10px;
+    bottom: 0px;
+    width: 100%;
+    font-size: 16px;
+    font-weight: normal;
+}
