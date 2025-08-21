@@ -1,0 +1,203 @@
+/* FORMATANDO TODOS OS ESTILOS PADRÃO */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* ESTILOS CONTAINER */
+div {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-family: Tahoma;
+}
+
+/* ESTILO PRIMEIRA SEÇÃO */
+.header {
+    background-color: #afddfb;
+}
+
+.imagem-logo {
+    width: 150px;
+}
+
+.botao-navegacao {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+/* ESTILO SEGUNDA SEÇÃO */
+.banner {
+    margin-top: 50px;
+    padding-top: 0;
+}
+
+/* ESTILO TERCEIRA SEÇÃO */
+.titulo-apresentacao {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+.subtitulo-apresentacao {
+    color: #1c81c0;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+.imagem-apresentacao {
+    width: 450px;
+}
+
+/* ESTILO QUARTA SEÇÃO */
+.servicos {
+    background-color: #1d80c1;
+
+}
+
+.subtitulo-servicos {
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.servicos p {
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    width: 700px;
+    text-align: center;
+}
+
+.lista-servicos {
+    width: 135px;
+    margin: 40px auto;
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+/* ESTILO QUINTA SEÇÃO */
+.corretores {}
+
+.subtitulo-corretores {
+    color: #1d80c1;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.imagem-corretores {
+    width: 450px;
+}
+
+/* ESTILO SEXTA SEÇÃO */
+.contato {
+    background-color: #1d80c1;
+}
+
+.titulo-contato {
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.localidade-mapa {
+    width: 800px;
+    height: 300px;
+}
+
+.contato p {
+    text-align: center;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin: 30px auto;
+    border-radius: 4px;
+}
+
+.lista-contato {
+    width: max-content;
+    margin: 10px auto;
+    /* margin-left: 520px; */
+    list-style: none;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.lista-contato li {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.contato a {
+    text-decoration: none;
+    color: #1c81c0;
+}
+
+/* ESTILOS GLOBAIS */
+.nav-bar,
+h1,
+h2 {
+    text-align: center;
+    font-family: Tahoma;
+}
+
+p {
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.span-cor-azul {
+    color: #1d80c1;
+}
+
+.span-cor-amarelo {
+    color: #fff81b;
+}
+
+.botao-home {
+    justify-content: center;
+    width: 210px;
+    margin: 0 auto;
+}
+
+/* BOTÃO VOLTAR INÍCIO DA PÁGINA */
+.botao-home a {
+    font-weight: bold;
+    margin-left: 20px;
+    color: #1d80c1;
+    background-color: #ffffff;
+    padding: 12px 75px;
+    text-align: center;
+    border-radius: 4px;
+}
+
+/* DIREITOS AUTORAIS */
+.direitos-autorais {
+    text-align: center;
+    border-top: 1px solid #000000;
+    padding-top: 10px;
+    bottom: 0px;
+    width: 100%;
+    font-size: 16px;
+    font-weight: normal;
+}
